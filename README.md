@@ -1,3 +1,7 @@
+# Description
+
+Transactions API monolith used for keeping up with personal finances. Developed to be used with YNAP API. Currently deprecated and no longer in use nor development. Kept for archive and exhibit purposes.
+
 # transaction-planner
 
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
